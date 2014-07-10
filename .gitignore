@@ -1,0 +1,10 @@
+#Below folders can (supposedly) be built from the tracked files
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
